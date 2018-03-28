@@ -1,0 +1,19 @@
+.PostListItem {
+  	padding: 20px;
+  	margin: 1em;
+  	border: 1px solid grey;
+  	border-radius: 10px;
+}
+
+.MoreButton{
+	text-align: center;
+	padding: 20px;
+	border: 1px solid grey;
+	display: table;
+	margin: auto;
+	border-radius: 10px;
+	background: white;
+	box-shadow: 0 2px 8px #5b5b5b;
+	cursor: pointer;
+	,border: 20px;
+}
